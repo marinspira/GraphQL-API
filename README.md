@@ -90,16 +90,6 @@ mutation {
   }
 }
 
-## Folder Structure
-.
-├── src
-│   ├── index.ts        # Entry point of the API
-│   ├── typeDefs.ts     # GraphQL type definitions
-│   ├── resolvers.ts    # Resolver functions for GraphQL queries and mutations
-│   └── data.ts         # Sample in-memory data for hostels, staff, reviews, etc.
-├── package.json        # Project configuration and dependencies
-└── README.md           # Project documentation
-
 ## Contribution
 If you would like to contribute, please follow these steps:
 
