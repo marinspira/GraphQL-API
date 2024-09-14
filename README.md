@@ -22,7 +22,8 @@ This project implements a GraphQL API that allows hostels to review staff member
 ## Installation
 
 Clone the repository:
-`git clone https://github.com/yourusername/hostel-staff-review-api.git`
+`git clone https://github.com/marinspira/GraphQL-API.git`
+`cd GraphQL-API`
 
 Install dependencies:
 `npm install`
